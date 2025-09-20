@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  backendUrl: 'https://jc-stores.harshana.store',
+  backendUrl: 'http://pos-kesara.nimbuscode.online',
 
   localBillUrl: 'http://localhost:5000', // Local backend URL for printing bills
   //backendUrl: 'http://localhost:4000'
